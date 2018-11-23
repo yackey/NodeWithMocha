@@ -1,0 +1,28 @@
+{
+  "name": "devmorningfix",
+  "version": "1.0.0",
+  "description": "initial project",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalinkin/DevMorningFix.git"
+  },
+  "keywords": [
+    "Steve's",
+    "first",
+    "try"
+  ],
+  "author": "Steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skalinkin/DevMorningFix/issues"
+  },
+  "homepage": "https://github.com/skalinkin/DevMorningFix#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
