@@ -14,7 +14,7 @@ npm test
 
 ### Prerequisites
 
-none
+node, npm, mocha
 
 ## Running the tests
 
@@ -27,14 +27,10 @@ npm test
 not quite test first
 maybe test concurrent
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 Node, npm, mocha 
-Ubuntu 8.04
+Ubuntu 18.04
 
 ## Versioning
 
